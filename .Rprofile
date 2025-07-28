@@ -43,8 +43,8 @@ base::rm(n, r)
 system("clear")
 
 # SECTION: Renv setup
-renv::load(
-  paste0(
-    Sys.getenv("GIT_ROOT_DIR")
-  )
-)
+# renv::load(
+#   paste0(
+#     Sys.getenv("GIT_ROOT_DIR")
+#   )
+# )

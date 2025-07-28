@@ -22,24 +22,10 @@
         };
         # Set here so it can be included in both Quarto and R wrappers below
         R_packages = with pkgs.rPackages; [
-          CTT
-          DT
-          dplyr
-          egg
-          ggplot2
-          gt
-          here
-          janitor
           knitr
           languageserver # For R LSP support in text editors/IDEs
-          magrittr
-          psych
           quarto
           renv
-          readxl
-          shiny
-          sessioninfo
-          tidyr
         ];
         # Make R and Quarto with packages above
         my_R = pkgs.rWrapper.override {

@@ -1,3 +1,7 @@
+.reveal h1 {
+  font-size: 55px;
+}
+
 .reveal.smaller .slides h1 {
   font-size: 65px;
 }

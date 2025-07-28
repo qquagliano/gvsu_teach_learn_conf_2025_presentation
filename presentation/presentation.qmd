@@ -1,6 +1,7 @@
 ---
 # Bibliography opts
-bibliography: "./refs/refs.bib"
+bibliography: "./refs/complete.bib"
+nocite: "@*" # Cites all items present in bibliography
 cite-method: citeproc
 citeproc: true
 csl: "../resources/bibs/apa.csl"
@@ -45,16 +46,25 @@ if [ -f ./refs/lit_review.bib ]; then
 fi
 ```
 
-# Introduction
+{{< pagebreak >}}
 
-## Follow Along
+# Introduction {#sec-intro}
 
-## Disclosure
+## Follow Along {#sec-follow-along}
+
+## Disclosures {#sec-disclosures}
 
 I have no disclosures or conflicts-of-interests related to this presentation
 
-## Learning Objectives
+## Learning Objectives {#sec-learning-objs}
 
-## Motivation
+## Motivation {#sec-motivation}
 
-## Purpose
+## Purpose {#sec-purpose}
+
+{{< pagebreak >}}
+
+## References {#sec-refs}
+
+::: {#refs}
+:::
