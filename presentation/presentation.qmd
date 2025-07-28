@@ -1,13 +1,4 @@
 ---
-# Metadata opts
-title: "Attendence and Access: How Course Policies Can Balance Equity and Rigor During In-Person Classes"
-subtitle: "GVSU 31st Annual Fall Conference on Teaching and Learning"
-author: 
-  - name: "Quinton Quagliano, M.S., C.S.P."
-    affiliations:
-      - name: Psychology Department
-date: "2025-08-14"
-
 # Bibliography opts
 bibliography: "./refs/refs.bib"
 cite-method: citeproc
@@ -16,6 +7,43 @@ csl: "../resources/bibs/apa.csl"
 link-citations: true
 link-bibliography: true
 ---
+```{r}
+#| lst-label: lst-r-libraries
+#| lst-cap: "R libraries"
+
+base::library(package = knitr) # For rendering document
+base::library(package = quarto) # For rendering document
+
+# Write all package citations to bib file for citation
+knitr::write_bib(
+  x    = base::.packages(),
+  file = "./refs/r_packages.bib"
+)
+```
+
+```{bash}
+#| context: setup
+#| lst-label: lst-citing
+#| lst-cap: "Bibliography and citations"
+
+# Check if a complete bib file already exists
+if [ -f ./refs/complete.bib ]; then
+  rm ./refs/complete.bib
+fi
+
+# Make an empty bib file
+touch ./refs/complete.bib
+
+# Append R package citation to bib file
+if [ -f ./refs/r_packages.bib ]; then
+  cat ./refs/r_packages.bib >>./refs/complete.bib
+fi
+
+# Add any additional citations to bib file
+if [ -f ./refs/lit_review.bib ]; then
+  cat ./refs/lit_review.bib >>./refs/complete.bib
+fi
+```
 
 # Introduction
 

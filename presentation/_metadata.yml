@@ -1,0 +1,20 @@
+# SECTION: Info opts
+title: "{{< var title >}}"
+subtitle: "{{< var subtitle >}}"
+author: 
+  - name: "Quinton Quagliano, M.S., C.S.P."
+    affiliations:
+      - name: Psychology Department
+date: "2025-08-14"
+
+# SECTION: Metadata opts
+title-meta: "{{< var title >}}"
+keywords:
+  - "{{< var title >}}"
+description-meta: "{{< var title >}}"
+author-meta: "Quinton Quagliano, M.S., C.S.P."
+date-meta: "2025-08-14"
+subject: "{{< var title >}}"
+pagetitle: "{{< var title >}}"
+header: "{{< var title >}}"
+
