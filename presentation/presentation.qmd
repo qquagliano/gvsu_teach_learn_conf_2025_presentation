@@ -1,8 +1,11 @@
 ---
 # Metadata opts
 title: "Attendence and Access: How Course Policies Can Balance Equity and Rigor During In-Person Classes"
-subtitle: "GVSU 31st Annual Fall Conference on Teaching and Learning (2025)"
-author: "Quinton Quagliano, M.S., C.S.P."
+subtitle: "GVSU 31st Annual Fall Conference on Teaching and Learning"
+author: 
+  - name: "Quinton Quagliano, M.S., C.S.P."
+    affiliations:
+      - name: Psychology Department
 date: "2025-08-14"
 
 # Bibliography opts
@@ -17,24 +20,6 @@ link-bibliography: true
 # Introduction
 
 ## Follow Along
-
-::: {.r-stack}
-
-![](./imgs/frame.png)
-
-:::
-
-::: {.r-stack}
-
-<https://qquagliano.github.io/nap_2025_presentation/presentation/presentation.html>
-
-:::
-
-::: {.r-stack}
-
-<https://is.gd/TI2Sqx>
-
-:::
 
 ## Disclosure
 

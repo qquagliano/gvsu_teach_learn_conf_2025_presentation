@@ -12,7 +12,7 @@ format:
       elements: ["\\headerblock", "\\logoblock", "\\titleblock", "\\authorblock"]
       page-align: "center"
       title-style: "doublelinetight"
-      title-fontstyle: ["huge", "bfseries"]
+      title-fontstyle: ["Large", "bfseries"]
       title-fontfamily: "Liberation Sans"
       title-space-after: "1.5cm"
       subtitle-fontstyle: "Large"
