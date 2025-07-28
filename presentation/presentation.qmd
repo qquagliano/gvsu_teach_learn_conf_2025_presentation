@@ -4,8 +4,6 @@ title: "Attendence and Access: How Course Policies Can Balance Equity and Rigor 
 subtitle: "GVSU 31st Annual Fall Conference on Teaching and Learning (2025)"
 author: "Quinton Quagliano, M.S., C.S.P."
 date: "2025-08-14"
-format: revealjs
-transition: slide
 
 # Bibliography opts
 bibliography: "./refs/refs.bib"
