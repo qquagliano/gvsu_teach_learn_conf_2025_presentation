@@ -1,5 +1,5 @@
 {
-  description = "Quarto, Python, R, & Julia Development Flake";
+  description = "GVSU 2025 Teaching and Learning Conference Flake";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
@@ -12,71 +12,53 @@
       flake-utils-plus,
       ...
     }:
+    # Builds for all possible system architectures
     flake-utils-plus.lib.eachDefaultSystem (
       system:
       let
+        # Necessary to call nixpkgs below, do not remove
         pkgs = import nixpkgs {
           inherit system;
         };
-        python = (
-          pkgs.python3.withPackages (python-pkgs: [
-            python-pkgs.ipython
-            python-pkgs.numpy
-            python-pkgs.pandas
-            python-pkgs.radian
-            python-pkgs.scipy
-            python-pkgs.plotly
-            python-pkgs.jupyter
-          ])
-        );
-        julia = (
-          pkgs.julia-bin.withPackages [
-            "LanguageServer"
-            "DataFrames"
-            "DataFramesMeta"
-          ]
-        );
+        # Set here so it can be included in both Quarto and R wrappers below
         R_packages = with pkgs.rPackages; [
+          CTT
+          DT
           dplyr
           egg
-          furrr
           ggplot2
           gt
-          kableExtra
+          here
+          janitor
           knitr
-          languageserver
+          languageserver # For R LSP support in text editors/IDEs
           magrittr
+          psych
           quarto
           renv
-          stringr
-          tibble
+          readxl
+          shiny
+          sessioninfo
           tidyr
-          tidyselect
         ];
+        # Make R and Quarto with packages above
         my_R = pkgs.rWrapper.override {
           packages = R_packages;
         };
         my_quarto = pkgs.quarto.override {
           extraRPackages = R_packages;
         };
-        auto-multiple-choice = pkgs.auto-multiple-choice;
-        tex = (
-          pkgs.texlive.combine {
-            inherit (pkgs.texlive) scheme-full;
-            inherit auto-multiple-choice;
-          }
-        );
         nativeBuildInputs = with pkgs; [
-          bashInteractive
-          # python
-          # julia
-          # jupyter-all # For jupyter kernel rendering in Quarto
-          flake-checker
-          mermaid-cli
+          # CLI tools
+          bashInteractive # For a basic shell on
+          flake-checker # For ensuring flake is healthy and up-to-date
+          # Custom R and Quarto tools
           my_R
           my_quarto
+          # Rendering dependencies
           pandoc
-          tex
+          texlive.combined.scheme-full
+          liberation_ttf # For FOSS fonts
         ];
       in
       {
@@ -115,9 +97,10 @@
               fi
 
               echo -e " "
-              echo -e "\e[32m----- Setting git root directory and Rprofile location -----\e[0m"
+              echo -e "\e[32m----- Setting git root directory, .Rprofile and fonts location -----\e[0m"
               export GIT_ROOT_DIR=$(git rev-parse --show-toplevel)
               export R_PROFILE_USER="$(echo $GIT_ROOT_DIR)/.Rprofile" 
+              export OSFONTDIR=${pkgs.liberation_ttf}/share/fonts
 
               if [[ -f $R_PROFILE_USER  &&  -d $GIT_ROOT_DIR/renv ]]; 
               then

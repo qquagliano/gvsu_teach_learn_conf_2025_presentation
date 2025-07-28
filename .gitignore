@@ -1,0 +1,7 @@
+.direnv/
+.quarto/
+_output/
+*.html
+*_files/
+
+/.quarto/
