@@ -50,17 +50,265 @@ fi
 
 # Introduction {#sec-intro}
 
+:::{.content-visible when-format="revealjs"}
+
 ## Follow Along {#sec-follow-along}
 
 ## Disclosures {#sec-disclosures}
 
-I have no disclosures or conflicts-of-interests related to this presentation
+- I have no disclosures or conflicts-of-interests related to this presentation
 
-## Learning Objectives {#sec-learning-objs}
+:::
 
 ## Motivation {#sec-motivation}
 
-## Purpose {#sec-purpose}
+- When I began teaching, I underestimated difficulty of attendance
+  - In setting attendance policies, I felt a tension
+  - Noticed a wide array of policies
+  - As students missed class, I dealt with more complex situations
+  - My evening in-person class vs. asynch online class
+
+- Like any researcher, I started reading
+  - But like any instructor could say $\rightarrow$ no one "right" way
+  - Always an edge case that throws the best-laid plans
+
+- My desire to uphold a high level of accessibility and access in my
+course(s)
+  - Still finding value and purpose in in-person classes
+  - Sharing that purpose with my students
+
+## Purpose / Learning Objectives {#sec-purpose}
+
+- Frank, honest, and productive discussion on some strategies ...
+  - ... and recognizing limits on said strategies
+
+- Use as a starting point for changing departmental/course policies ...
+  - ... or just individual instructor preferences
+
+- Continued reflection on our styles, policies, and form to engage changing
+expectations
+
+- I'll start by highlighting the [Background and Starting Point] for
+understanding attendance issues, and transition into [Working Towards
+Solutions].
+
+# Background and Starting Point {#sec-assume}
+
+## Benefits of Attending {#sec-benefits}
+
+**Being present in class is a *good* thing for students (and instructors)**
+
+- Better course grades and overall GPA [@crede_class_2010]
+- Evidence of relationship with instructor evaluation [@davidovitch_class_2006]
+- Some activities or plans benefit from/require attendance
+  - Especially many active learning activities!
+- Less time-consuming to deal with re-hashing content
+  - Professors are busy people! [@jacobs_overworked_2004]
+
+## Complexity in Motivation to Attend {#sec-motivations}
+
+**Student motivation and "choice" to attend is *complex***
+
+- Not as simple as, "they just don't want to come / they are lazy"
+  - Think about all the "excuses" you have heard, some surprising
+- Student's individual traits and personality doesn't always explain attendance
+[@van_blerkom_academic_1996]
+- Student's primary motivation may relate to a utilitarian view of what they get
+out of being present [@fjortoft_students_2005]
+- Various mobility, safety, transportation issues
+
+## Attendance Can Make or Break Relationships {#sec-make-or-break}
+
+**Student's attendance situation, and instructors' reactions to those
+circumstances, can *strain or strengthen* relationships**
+
+- Student-faculty relationships already fraught with transactional issues
+  - See flaws of student evaluations of faculty - [@langbein_management_2008]
+- Want to be encouraging and inviting, while also being mindful of boundaries
+[@owen_boundary_2007]
+  - Asking for personal details may toe the reasonable line, for some
+- Tension in wanting to be seen as warm, but not overly permissive or
+authoritarian [@bassett_permissive_2013]
+- Recognizing the potential positive academic and professional from cultivating
+positive relationships [@ingraham_student-faculty_2018]
+
+## "Attendance" and Access Doesn't Stop at the Door {#sec-att-and-access}
+
+**Policies related to access to materials outside of class play a role too**
+
+- Learning management systems (LMS) serve as vital storage tool for sharing
+  - Do they help outcomes? Sometimes ... [@rubin_effect_2010]
+  - Some faculty can find it difficult to embrace the learning curve
+  [@gautreau_motivational_2011]
+  - Students may not always *like* LMS [@horvat_student_2015], but are
+  accustomed
+
+- Instructors choose balance of *how much* to share exclusively in-class vs. how
+much to share via the LMS
+  - Is our course almost entirely shared online?, part of it?, very little?
+  [@machajewski_patterns_2019]
+  - We make additional decision on the *types* of materials to share or require,
+    - May impact student perception and access; e.g., OER textbooks
+    [@hilton_open_2016]
+
+## Recap of Background {#sec-recap-of-back}
+
+**So where does that all leave us? Confused? So was/am I**
+
+- Clearly, having students in class is largely beneficial - but getting them
+there isn't always easy
+- Students sometimes miss for complicated reasons - how do we try to address
+these things while not damaging our relationships?
+- When students do miss, what do we provide on the LMS, and what do we
+intentionally withhold (if anything at all)?
+
+# Working Towards Solutions {#sec-solutions}
+
+## Goals of These Solutions {#sec-goals-of-solutions}
+
+**Encourage better in-class attendance (duh), while...**
+
+- Addressing common scenarios/issues instructors face
+- Accounting for circumstances outside of student control
+- Promoting rapport between instructors and students
+- Maintaining a high level of access to learning materials when possible
+
+**It is *not* to completely de-value an in-person education!**
+
+## Preemptive Limitations {#sec-limits}
+
+**I'm not a miracle worker**
+
+- Clearly, any solution to the myriad of nuances described before is going to be
+complicated - this presentation won't solve all our woes!
+- This process of revision and reflection will be long
+- No one size fits all; tailor to your classes and skills
+- Not all research on absences is likely to apply equal to college students
+  - They have more independence than middle/high school students
+
+## Overview of Common Issues {#sec-common-issues}
+
+**Each of these will be addressed in the following sections**
+
+- [Demonstrating Class Value](sec-demo-prob)
+- [Dealing with "Excuses" with Absences](sec-excuses-prob)
+- [Designing Flexible Content that Works Inside and Outside of Class](sec-flex-prob)
+- [Embracing the LMS (and All of It's Problems)](sec-lms-woes-prob)
+
+## Demonstrating Class Value - The Problem {#sec-demo-prob}
+
+**The value of being in-person should be made apparent and explicit**
+
+- Metaphor: "Why do we need to be here?" $\rightarrow$ "This meeting could have
+been an email"
+- Try to make it clear what value a class provides when it meets in-person
+instead of just being recorded
+  - Don't assume students inherently recognize this!
+- I've had students who, humbly, explain part of my class does not show this
+value, because I've asked for feedback
+  - This isn't always fair, be discerning in what advice to consider
+
+## Demonstrating Class Value - A Starting Solution {#sec-demo-solution}
+
+**Make the language clear**
+
+- I write some reasons into the syllabus, e.g., easier to pay attention, ask
+questions when confused, get clarification from peers/groups, get more
+off-the-cuff examples for concepts
+- Use with caution: make in-class activities worth points that cannot be made up
+elsewhere
+  - Some students see points as indicating value
+- Similar, with caution: Clearly indicate how an activity plays into the larger
+picture
+  - E.g., "this will be on the exam/quiz"; "you need to do this same process for
+  your paper"
+
+## Dealing with "Excuses" - The Problem {#sec-excuses-prob}
+
+**Instructors as an absolute arbiter in regard to absences? *Un-ideal***
+
+- Opens up to bias in granting or rejecting
+- Requires additional time (and cognitive load) for professors
+- Incentivizes "convincing" or pleading the case
+
+## Dealing with "Excuses" - A Starting Solution {#sec-excuses-solution}
+
+**When possible, proactively set aside a "reasonable" numbers of absences
+without penalty in regard to access or points**
+
+- The exact extent of reasonable depends on the course
+  - E.g., labs and practicals may have less than lectures
+- Consider the theoretical point-of-no-return
+- Consider the rough percentage of class that can be "made up" via materials on
+the LMS
+- Set concrete, explicit consequences for absences past the "reasonable" amount
+  - Likely written in the syllabus, E.g., "After missing X classes you..."
+
+## Designing Flexible Content - The Problem {#sec-flex-prob}
+
+**When students miss, what do they stand to lose?**
+
+- Interactive discussion, demonstrations, and many forms of active learning
+may be especially hard to translate to out-of-class activity
+- Are lecture slides, notes available or just "get notes from a friend"?
+- Are practice activities still effective at home?
+
+## Designing Flexible Content - A Starting Solution {#sec-flex-solution}
+
+**Within reason, ensure that content is *mostly* available via the LMS (even the
+activities)**
+
+- If not confidential, try to post slides and/or lecture notes prior to class
+- Make sure activities are not just verbally administered in-class, but written
+down somewhere for those who are online (may also help students who are
+hard-of-hearing)
+- If demonstrating something in the course, see if an alternative YouTube video
+may be posted to the LMS that shows the same phenomenon or procedure
+- When not possible to provide certain materials, try to explicitly and clearly
+state why
+  - E.g., "Exam answers are only available in-class or during office hours in
+  order to protect the security of the test"
+
+## Embracing the LMS - The Problem {#sec-lms-woes-prob}
+
+**I'll be the first to admit: Blackboard can challenge me sometimes**
+
+- It can be difficult to manage, move, copy, and edit a large amount of content
+- Hopeful expectation for high accessibility scores can be difficult to meet
+- Hard to speculate what will make the most sense for flow in student's eye
+- More time in LMS means less time working on content and talking with students
+
+## Embracing the LMS - A Starting Solution {#sec-lms-woes-solution}
+
+**Spend time with the functions and settings in a sandbox; get feedback from
+students**
+
+- [GVSU's eLearning Team](https://www.gvsu.edu/elearn/) can set up template
+courses to play around in prior to posting in the "real" course
+- Use the "Student Preview" function regularly to check and make sure content
+appear as expected
+  - Try "roleplaying" as a student who missed class, is it intuitive to find
+  relevant materials?
+  - In that same vain, model using the LMS in class early on!
+- Use a [Mid-semester Interview in Teaching
+(MIT)](https://www.gvsu.edu/ftlc/mid-semester-student-feedback-29.htm) via Pew
+FTLC or otherwise solicit feedback via survey on LMS structure BEFORE the end of
+the semester
+  - I've learned that many students greatly prefer a largely chronological flow,
+  rather than categorization by type, i.e., less scrolling when completing work
+  for the week
+- Use hierarchy of learning modules and folders to stay organized
+
+# Conclusion {#sec-conc}
+
+- I've tried to give many anecdotal ideas and examples of what I see working
+to make in-person classes more appealing and approachable to students
+- Some of these ideas also help make the class more accessible when students
+find themselves missing due to reasons outside of their control
+  - Unfortunately, we are limited in the circumstances we can change
+- At the core of many of these efforts is a sense of *grace*, showing some
+leeway and trusting students to not take a mile
+  - I understand why this is a difficult thing to always trust in
 
 {{< pagebreak >}}
 
