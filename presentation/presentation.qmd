@@ -195,7 +195,8 @@ complicated - this presentation won't solve all our woes!
 
 **Simple - not enough students attending class regularly**
 
-- As discussed in the [Background], there are many valid reasons this may
+- As discussed in the [Background and Starting Point], there are many valid
+reasons this may
 happen, but it is still an issue
 - While the following sections will deal with responding to poor attendance, we
 still want to focus our attention on getting more students in-class each time
@@ -345,7 +346,7 @@ leeway and trusting students to not take a mile
 
 {{< pagebreak >}}
 
-## References {#sec-refs}
+# References {#sec-refs}
 
 ::: {#refs}
 :::
