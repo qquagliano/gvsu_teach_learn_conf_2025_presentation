@@ -67,11 +67,9 @@ fi
   - Noticed a wide array of policies
   - As students missed class, I dealt with more complex situations
   - My evening in-person class vs. asynch online class
-
 - Like any researcher, I started reading
   - But like any instructor could say $\rightarrow$ no one "right" way
   - Always an edge case that throws the best-laid plans
-
 - My desire to uphold a high level of accessibility and access in my
 course(s)
   - Still finding value and purpose in in-person classes
@@ -81,13 +79,10 @@ course(s)
 
 - Frank, honest, and productive discussion on some strategies ...
   - ... and recognizing limits on said strategies
-
 - Use as a starting point for changing departmental/course policies ...
   - ... or just individual instructor preferences
-
 - Continued reflection on our styles, policies, and form to engage changing
 expectations
-
 - I'll start by highlighting the [Background and Starting Point] for
 understanding attendance issues, and transition into [Working Towards
 Solutions].
@@ -190,28 +185,63 @@ complicated - this presentation won't solve all our woes!
 
 **Each of these will be addressed in the following sections**
 
+- [Poor Class Attendance](sec-attend-prob)
 - [Demonstrating Class Value](sec-demo-prob)
 - [Dealing with "Excuses" with Absences](sec-excuses-prob)
 - [Designing Flexible Content that Works Inside and Outside of Class](sec-flex-prob)
 - [Embracing the LMS (and All of It's Problems)](sec-lms-woes-prob)
+
+## Poor Class Attendance - The Problem {#sec-attend-prob}
+
+**Simple - not enough students attending class regularly**
+
+- As discussed in the [Background], there are many valid reasons this may
+happen, but it is still an issue
+- While the following sections will deal with responding to poor attendance, we
+still want to focus our attention on getting more students in-class each time
+- Does having a "mandatory" attendance policy work? Is that all we need?
+
+## Poor Class Attendance - A Starting Solution {#sec-attend-solution}
+
+**Many strategies proposed in the literature**
+
+- Unsurprisingly, I am not the first person interested in this area, a small
+sample of empirical research:
+  - @railsback_increasing_2004
+  - @moore_does_2004
+  - @al-shammari_enhancing_2016
+
+- The first area to address is the mandatory attendance policy, where some
+degree of absenteeism results in compounding and automatic grade deductions.
+Success in various areas:
+  - Pharmacy [@winkles_examination_2025]
+  - Medicine [@subramaniam_attendance_2013]
+  - Economics [@marburger_does_2006]
+  - Problem solved, right? Well, somewhat; maybe works at the average level, but
+  individuals may find it taxing
+
+- In summary, it probably is wise to have *some* type of mandatory attendance
+policy, but there are several ways we can supplement this suggestion...
 
 ## Demonstrating Class Value - The Problem {#sec-demo-prob}
 
 **The value of being in-person should be made apparent and explicit**
 
 - Metaphor: "Why do we need to be here?" $\rightarrow$ "This meeting could have
-been an email"
-- Try to make it clear what value a class provides when it meets in-person
-instead of just being recorded
-  - Don't assume students inherently recognize this!
+been an email" - A feeling we all know too well
+- Some, but not all students, have an intrinsic motivation to care about each
+subject
 - I've had students who, humbly, explain part of my class does not show this
 value, because I've asked for feedback
-  - This isn't always fair, be discerning in what advice to consider
+  - This isn't *always* fair, be discerning in what advice to consider
 
 ## Demonstrating Class Value - A Starting Solution {#sec-demo-solution}
 
 **Make the language clear**
 
+- Try to make it clear what value a class provides when it meets in-person
+instead of just being recorded
+  - Don't assume students inherently recognize this!
 - I write some reasons into the syllabus, e.g., easier to pay attention, ask
 questions when confused, get clarification from peers/groups, get more
 off-the-cuff examples for concepts
@@ -241,6 +271,8 @@ without penalty in regard to access or points**
 - Consider the theoretical point-of-no-return
 - Consider the rough percentage of class that can be "made up" via materials on
 the LMS
+  - This will play into the next problem of [Designing Flexible
+  Content](sec-flex-prob)
 - Set concrete, explicit consequences for absences past the "reasonable" amount
   - Likely written in the syllabus, E.g., "After missing X classes you..."
 
@@ -250,13 +282,13 @@ the LMS
 
 - Interactive discussion, demonstrations, and many forms of active learning
 may be especially hard to translate to out-of-class activity
-- Are lecture slides, notes available or just "get notes from a friend"?
-- Are practice activities still effective at home?
+- Are lecture slides, notes available or is it just "get notes from a friend"?
+- Are practice activities done in class still effective at home?
 
 ## Designing Flexible Content - A Starting Solution {#sec-flex-solution}
 
-**Within reason, ensure that content is *mostly* available via the LMS (even the
-activities)**
+**Within reason, ensure that content is *mostly* available via the LMS or other
+methods (even the activities)**
 
 - If not confidential, try to post slides and/or lecture notes prior to class
 - Make sure activities are not just verbally administered in-class, but written
@@ -289,7 +321,8 @@ courses to play around in prior to posting in the "real" course
 appear as expected
   - Try "roleplaying" as a student who missed class, is it intuitive to find
   relevant materials?
-  - In that same vain, model using the LMS in class early on!
+  - In that same vain, model using the LMS in class early on or briefly during
+  each class period (or during recorded lectures)!
 - Use a [Mid-semester Interview in Teaching
 (MIT)](https://www.gvsu.edu/ftlc/mid-semester-student-feedback-29.htm) via Pew
 FTLC or otherwise solicit feedback via survey on LMS structure BEFORE the end of
