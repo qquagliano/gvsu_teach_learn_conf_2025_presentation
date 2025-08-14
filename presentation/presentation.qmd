@@ -233,6 +233,7 @@ Success in various areas:
 
 - In summary, it probably is wise to have *some* type of mandatory attendance
 policy, but there are several ways we can supplement this suggestion...
+  - Even if attendance isn't mandatory, you should still be taking it!
 
 ## Demonstrating Class Value - The Problem {#sec-demo-prob}
 
