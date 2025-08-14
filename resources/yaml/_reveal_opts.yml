@@ -27,7 +27,7 @@ embed-resources: true
 self-contained-math: true
 output-ext: html
 # NOTE: Navigation
-incremental: true
+incremental: false
 navigation-mode: linear
 scrollable: true
 transition: slide

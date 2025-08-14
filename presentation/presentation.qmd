@@ -54,6 +54,12 @@ fi
 
 ## Follow Along {#sec-follow-along}
 
+Use the following QR code or [this
+link](https://qquagliano.github.io/gvsu_teach_learn_conf_2025_presentation/presentation/presentation.pdf)
+to access the presentation notes
+
+![](./imgs/qr_code.png)
+
 ## Disclosures {#sec-disclosures}
 
 - I have no disclosures or conflicts-of-interests related to this presentation
@@ -67,8 +73,10 @@ fi
   - Noticed a wide array of policies
   - As students missed class, I dealt with more complex situations
   - My evening in-person class vs. asynch online class
-- Like any researcher, I started reading
-  - But like any instructor could say $\rightarrow$ no one "right" way
+  - Despite my success as a psychometrist, that didn't readily translate to
+  rapport with students - but I did know the value
+- Like any *researcher*, I started reading
+  - But like any *instructor* could say $\rightarrow$ no one "right" way
   - Always an edge case that throws the best-laid plans
 - My desire to uphold a high level of accessibility and access in my
 course(s)
@@ -140,6 +148,8 @@ positive relationships [@ingraham_student-faculty_2018]
 
 - Instructors choose balance of *how much* to share exclusively in-class vs. how
 much to share via the LMS
+  - The actions (or sometimes inaction) we take can create a sort of implicit
+  attendance policy
   - Is our course almost entirely shared online?, part of it?, very little?
   [@machajewski_patterns_2019]
   - We make additional decision on the *types* of materials to share or require,
@@ -292,6 +302,9 @@ may be especially hard to translate to out-of-class activity
 methods (even the activities)**
 
 - If not confidential, try to post slides and/or lecture notes prior to class
+  - And make sure students know where to find them!
+  - Consistency in formatting while [Embracing the LMS](sec-lms-woes-probs)
+  can help
 - Make sure activities are not just verbally administered in-class, but written
 down somewhere for those who are online (may also help students who are
 hard-of-hearing)
